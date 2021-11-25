@@ -1,4 +1,5 @@
 # Predicting House Prices
+![Logo](https://www.arazistan.com/wp-content/uploads/2020/07/Property-Prices-Crash-in-Pakistan.jpg)
 
 
    
@@ -33,10 +34,7 @@ This dataset can be found at [Kaggle](https://www.kaggle.com/harlfoxem/housesale
 - **yr_built:** the year of the house built                              
 - **yr_renovated:** the year of renovated the building                           
 - **lat:** location parameter 
--## Team Members 
-- Nouf Alkhaldi
-- Abdulrahim Alshehri
-- yaqeen alhawaj
+
 
 - **long:** location parameter
                                       
@@ -64,6 +62,9 @@ Predict house price using Linear regression.
 ## ML Goal 
 
 In this project, We try to predict the house prices to have product that serve customer who want to sell or buy house.
-
+## Team Members 
+- Nouf Alkhaldi
+- Abdulrahim Alshehri
+- yaqeen alhawaj
 
 
